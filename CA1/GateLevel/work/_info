@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/References/T3/DLD_CA/CA1/j1TB
+vBitCompareSliceGate
+!s110 1603049883
+!i10b 1
+!s100 afIbA_U3^QhiZI^Je9i6W1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6CK14Amj]Hm@i4zM2TIif0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/References/T3/DLD_CA/CA1/GateLevel
+w1603049877
+8D:/University/References/T3/DLD_CA/CA1/GateLevel/BCS_gate_module.v
+FD:/University/References/T3/DLD_CA/CA1/GateLevel/BCS_gate_module.v
+!i122 5
+L0 2 27
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1603049882.000000
+!s107 D:/University/References/T3/DLD_CA/CA1/GateLevel/BCS_gate_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/GateLevel/BCS_gate_module.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@bit@compare@slice@gate
+vInverter
+Z6 !s110 1603049744
+!i10b 1
+!s100 e@7g>AaC9;Wl_ifM;6Y0k2
+R0
+Ia]l]OjMe>eSLb<_BN?16I0
+R1
+R2
+w1603049453
+8D:/University/References/T3/DLD_CA/CA1/GateLevel/Inverter_module.v
+FD:/University/References/T3/DLD_CA/CA1/GateLevel/Inverter_module.v
+!i122 2
+Z7 L0 2 4
+R3
+r1
+!s85 0
+31
+Z8 !s108 1603049744.000000
+!s107 D:/University/References/T3/DLD_CA/CA1/GateLevel/Inverter_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/GateLevel/Inverter_module.v|
+!i113 1
+R4
+R5
+n@inverter
+vNAND2
+R6
+!i10b 1
+!s100 oRkG79zO7M_0OIaMKOM0a2
+R0
+IjN00[>RchHfK6?bnzI>V42
+R1
+R2
+w1603049679
+8D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND2_module.v
+FD:/University/References/T3/DLD_CA/CA1/GateLevel/NAND2_module.v
+!i122 3
+R7
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND2_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND2_module.v|
+!i113 1
+R4
+R5
+n@n@a@n@d2
+vNAND3
+!s110 1603049745
+!i10b 1
+!s100 lD`=[?z@l:0HLbnU9l4RW3
+R0
+Ii:g:gCek60:Xi_QYOj?[g2
+R1
+R2
+w1603049739
+8D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND3_module.v
+FD:/University/References/T3/DLD_CA/CA1/GateLevel/NAND3_module.v
+!i122 4
+R7
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND3_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND3_module.v|
+!i113 1
+R4
+R5
+n@n@a@n@d3
+vXNOR
+R6
+!i10b 1
+!s100 gEzGDoLb[nk_<Am1J^NDG1
+R0
+IHZD`NhbbO4Pi>mialZggI3
+R1
+R2
+w1603049520
+8D:/University/References/T3/DLD_CA/CA1/GateLevel/XNOR_module.v
+FD:/University/References/T3/DLD_CA/CA1/GateLevel/XNOR_module.v
+!i122 1
+R7
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/University/References/T3/DLD_CA/CA1/GateLevel/XNOR_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/GateLevel/XNOR_module.v|
+!i113 1
+R4
+R5
+n@x@n@o@r

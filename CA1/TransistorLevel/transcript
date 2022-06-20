@@ -1,0 +1,11 @@
+# Compile of BCS_transistor_testbench.v was successful.
+# Compile of BCS_transitorLevel_module.v was successful.
+# Compile of e1_testbench.v was successful.
+# Compile of g1_testbench.v was successful.
+# Compile of k1Bar_testbench.v was successful.
+# Compile of NAND3Input_module.v was successful.
+# Compile of NANDTwoInput_module.v was successful.
+# Compile of Inverter_module.v was successful.
+# Compile of j1_testbench.v was successful.
+# Compile of XNOR_module.v was successful.
+# 10 compiles, 0 failed with no errors.

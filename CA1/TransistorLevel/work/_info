@@ -1,0 +1,251 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/References/T3/DLD_CA/CA1/C4
+vBCS_transistorTB
+!s110 1603308962
+!i10b 1
+!s100 W=>7eoo003Nk^7o9dcjdX1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILHe2XbXnk9HY2l72Q31^Y1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/References/T3/DLD_CA/CA1/TransistorLevel
+w1603308957
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transistor_testbench.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transistor_testbench.v
+!i122 30
+Z3 L0 2 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1603308962.000000
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transistor_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transistor_testbench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@b@c@s_transistor@t@b
+vBitCompareSliceTransistor
+Z8 !s110 1603308963
+!i10b 1
+!s100 Q^hk5JU9UfHfBUm>MWGHl3
+R0
+IDP<62oGiDBE>R?KzM:a>60
+R1
+R2
+w1603047565
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transitorLevel_module.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transitorLevel_module.v
+!i122 31
+L0 2 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transitorLevel_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transitorLevel_module.v|
+!i113 1
+R6
+R7
+n@bit@compare@slice@transistor
+ve1TB
+R8
+!i10b 1
+!s100 g4J[:b3^;9SncNfgE7UVI3
+R0
+I0VXAXVzG?T@<iIoC2^zLS2
+R1
+R2
+w1603308917
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/e1_testbench.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/e1_testbench.v
+!i122 32
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1603308963.000000
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/e1_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/e1_testbench.v|
+!i113 1
+R6
+R7
+ne1@t@b
+vg1_TB
+R8
+!i10b 1
+!s100 NQ?iEbn6d8nJ8`e@e4[Ff3
+R0
+IjZ>F6zhLZY]8T_U;9gYcb0
+R1
+R2
+w1603308931
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/g1_testbench.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/g1_testbench.v
+!i122 33
+L0 2 30
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/g1_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/g1_testbench.v|
+!i113 1
+R6
+R7
+ng1_@t@b
+vInverter
+Z10 !s110 1603308964
+!i10b 1
+!s100 lHC5hUHWK8d5>LSYM8kUY2
+R0
+IG=z_WNFCZdEI7WhBe6lb13
+R1
+R2
+w1603029308
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/Inverter_module.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/Inverter_module.v
+!i122 37
+L0 2 8
+R4
+r1
+!s85 0
+31
+Z11 !s108 1603308964.000000
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/Inverter_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/Inverter_module.v|
+!i113 1
+R6
+R7
+n@inverter
+vj1_TB
+Z12 !s110 1603308965
+!i10b 1
+!s100 z2zSn95D_ak[aI;`9YC8J0
+R0
+I=9[M?9kVKa5b=C26W^Kl?1
+R1
+R2
+w1603308948
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/j1_testbench.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/j1_testbench.v
+!i122 38
+L0 2 17
+R4
+r1
+!s85 0
+31
+Z13 !s108 1603308965.000000
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/j1_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/j1_testbench.v|
+!i113 1
+R6
+R7
+nj1_@t@b
+vk1barTB
+R10
+!i10b 1
+!s100 0LdWf_MV8f4V?keDn6Ub10
+R0
+IRi4mTd_nGDJ0GER8bl>Mz1
+R1
+R2
+w1603308939
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/k1Bar_testbench.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/k1Bar_testbench.v
+!i122 34
+L0 2 19
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/k1Bar_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/k1Bar_testbench.v|
+!i113 1
+R6
+R7
+nk1bar@t@b
+vNAND_2input
+R10
+!i10b 1
+!s100 e1[]LHnm58>6hHigO5ZY=0
+R0
+I[ob>_06[6c]_Rno2ELb7U2
+R1
+R2
+w1603040726
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NANDTwoInput_module.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/NANDTwoInput_module.v
+!i122 36
+L0 2 12
+R4
+r1
+!s85 0
+31
+R11
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NANDTwoInput_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NANDTwoInput_module.v|
+!i113 1
+R6
+R7
+n@n@a@n@d_2input
+vNAND_3input
+R10
+!i10b 1
+!s100 _dB]oU:Yz_ak1oe@^M_[13
+R0
+IzMFS@JIekDFJ594b5WfAd0
+R1
+R2
+w1603038970
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NAND3Input_module.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/NAND3Input_module.v
+!i122 35
+L0 2 16
+R4
+r1
+!s85 0
+31
+R11
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NAND3Input_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NAND3Input_module.v|
+!i113 1
+R6
+R7
+n@n@a@n@d_3input
+vXNOR
+R12
+!i10b 1
+!s100 S5:^f7?b]0>OgE:MCGOOV3
+R0
+I4IegNBhB;d^ONMHmV2KOO3
+R1
+R2
+w1603031043
+8D:/University/References/T3/DLD_CA/CA1/TransistorLevel/XNOR_module.v
+FD:/University/References/T3/DLD_CA/CA1/TransistorLevel/XNOR_module.v
+!i122 39
+L0 2 23
+R4
+r1
+!s85 0
+31
+R13
+!s107 D:/University/References/T3/DLD_CA/CA1/TransistorLevel/XNOR_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA1/TransistorLevel/XNOR_module.v|
+!i113 1
+R6
+R7
+n@x@n@o@r

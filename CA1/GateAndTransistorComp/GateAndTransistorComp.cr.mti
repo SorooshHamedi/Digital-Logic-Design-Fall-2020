@@ -1,0 +1,78 @@
+D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/BCS_transitorLevel_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/BCS_transitorLevel_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BitCompareSliceTransistor
+
+Top level modules:
+	BitCompareSliceTransistor
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/Inverter_prim_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/Inverter_prim_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Inverter
+
+Top level modules:
+	Inverter
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/Inverter_trans_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/Inverter_trans_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Inverter
+
+Top level modules:
+	Inverter
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND2_prim_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND2_prim_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND2
+
+Top level modules:
+	NAND2
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND2_trans_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND2_trans_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND_2input
+
+Top level modules:
+	NAND_2input
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/XNOR_prim_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/XNOR_prim_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module XNOR
+
+Top level modules:
+	XNOR
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/XNOR_trans_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/XNOR_trans_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module XNOR
+
+Top level modules:
+	XNOR
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND3_prim_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND3_prim_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND3
+
+Top level modules:
+	NAND3
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND3_trans_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/NAND3_trans_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND_3input
+
+Top level modules:
+	NAND_3input
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/BCS_compare_testbench.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/BCS_compare_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BCS_compTB
+
+Top level modules:
+	BCS_compTB
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/BCS_gate_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateAndTransistorComp/BCS_gate_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BitCompareSliceGate
+
+Top level modules:
+	BitCompareSliceGate
+
+} {} {}}

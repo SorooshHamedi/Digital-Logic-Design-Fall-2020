@@ -1,0 +1,71 @@
+D:/University/References/T3/DLD_CA/CA1/TransistorLevel/e1_testbench.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/e1_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module e1TB
+
+Top level modules:
+	e1TB
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NAND3Input_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NAND3Input_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND_3input
+
+Top level modules:
+	NAND_3input
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/j1_testbench.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/j1_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module j1_TB
+
+Top level modules:
+	j1_TB
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transitorLevel_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transitorLevel_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BitCompareSliceTransistor
+
+Top level modules:
+	BitCompareSliceTransistor
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/g1_testbench.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/g1_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module g1_TB
+
+Top level modules:
+	g1_TB
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transistor_testbench.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/BCS_transistor_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BCS_transistorTB
+
+Top level modules:
+	BCS_transistorTB
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/k1Bar_testbench.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/k1Bar_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module k1barTB
+
+Top level modules:
+	k1barTB
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NANDTwoInput_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/NANDTwoInput_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND_2input
+
+Top level modules:
+	NAND_2input
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/Inverter_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/Inverter_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Inverter
+
+Top level modules:
+	Inverter
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/TransistorLevel/XNOR_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/TransistorLevel/XNOR_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module XNOR
+
+Top level modules:
+	XNOR
+
+} {} {}}

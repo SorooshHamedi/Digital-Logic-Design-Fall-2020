@@ -1,0 +1,29 @@
+D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND3_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND3_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND3
+
+Top level modules:
+	NAND3
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateLevel/Inverter_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateLevel/Inverter_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Inverter
+
+Top level modules:
+	Inverter
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateLevel/XNOR_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateLevel/XNOR_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module XNOR
+
+Top level modules:
+	XNOR
+
+} {} {}} D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND2_module.v {1 {vlog -work work -stats=none D:/University/References/T3/DLD_CA/CA1/GateLevel/NAND2_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NAND2
+
+Top level modules:
+	NAND2
+
+} {} {}}
