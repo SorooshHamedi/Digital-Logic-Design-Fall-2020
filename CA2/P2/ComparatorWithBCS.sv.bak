@@ -1,0 +1,19 @@
+`timescale 1ns/1ns
+module ComparatorWithBCS #(parameter S=8) (input [S-1:0]A, input [S-1:0]B, output EQ, output LT);
+	
+	wire [S:0]eq;
+	wire [S:0]lt;
+	assign eq[S] = 1;
+	assign lt[S] = 0;
+	assign EQ = eq[0];
+	assign LT = lt[0];
+
+	genvar i;
+	generate
+		for(i=S-1; i>=0; i=i-1) begin:
+			BitCompareSlice bcs( .a(A[i]), .b(B[i]), .eq(eq[i+1]), .lt(lt[i+1]), .EQ(eq[i]), .LT(lt[i]) );
+
+		end
+	endgenerate
+endmodule
+	 

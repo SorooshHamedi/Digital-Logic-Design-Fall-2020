@@ -1,0 +1,22 @@
+D:/University/References/T3/DLD_CA/CA2/P2/ComparatorTestBench.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P2/ComparatorTestBench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EightBitComparatorWithBCS_TB
+
+Top level modules:
+	EightBitComparatorWithBCS_TB
+
+} {} {}} D:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ComparatorWithBCS
+
+Top level modules:
+	ComparatorWithBCS
+
+} {} {}} D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BitCompareSlice
+
+Top level modules:
+	BitCompareSlice
+
+} {} {}}

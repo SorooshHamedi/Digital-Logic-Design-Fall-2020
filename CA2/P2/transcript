@@ -1,0 +1,14 @@
+# Compile of ComparatorTestBench.sv was successful.
+# Compile of ComparatorWithBCS.sv was successful.
+# Compile of BitCompareSlice.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.EightBitComparatorWithBCS_TB
+# vsim work.EightBitComparatorWithBCS_TB 
+# Start time: 01:35:50 on Nov 04,2020
+# Loading sv_std.std
+# Loading work.EightBitComparatorWithBCS_TB
+# Loading work.ComparatorWithBCS
+# Loading work.BitCompareSlice
+quit -sim
+# End time: 01:36:02 on Nov 04,2020, Elapsed time: 0:00:12
+# Errors: 0, Warnings: 12

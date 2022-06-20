@@ -1,0 +1,18 @@
+`timescale 1ns/1ns
+module ComparatorWithTBCS #(parameter S=8) (input [S-1:0]A, input [S-1:0]B, output EQ, output LT);
+	
+	wire [S/2:0]eq;
+	wire [S/2:0]lt;
+	assign eq[S/2] = 1;
+	assign lt[S/2] = 0;
+	assign EQ = eq[0];
+	assign LT = lt[0];
+
+	genvar i;
+	generate
+		for(i=3; i>=0; i--) begin 
+			TwoBitCompareSlice tbcs(.A({A[(i*2)+1], A[i*2]}), .B({B[(i*2)+1], B[i*2]}), .eq(eq[i+1]), .lt(lt[i+1]), .EQ(eq[i]), .LT(lt[i]));
+		end
+	endgenerate
+endmodule
+			

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vBCS
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1604221205
+!i10b 1
+!s100 41Xg_chSmT2[0Mi@_mFh[0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHCb13lL`zH`==]jG[UJL]2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/University/References/T3/DLD_CA/CA2/P1
+w1604221199
+8D:/University/References/T3/DLD_CA/CA2/P1/BCS.sv
+FD:/University/References/T3/DLD_CA/CA2/P1/BCS.sv
+!i122 1
+L0 2 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1604221205.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P1/BCS.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P1/BCS.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@b@c@s
+vbcsTb
+R0
+!s110 1604247568
+!i10b 1
+!s100 k96Eg2SfWbXa:164YCe3R1
+R1
+IlTS9Sc0bUmcoh4m?JTYGz2
+R2
+S1
+R3
+w1604247564
+8D:/University/References/T3/DLD_CA/CA2/P1/bcs_tb.sv
+FD:/University/References/T3/DLD_CA/CA2/P1/bcs_tb.sv
+!i122 3
+L0 2 16
+R4
+r1
+!s85 0
+31
+!s108 1604247568.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P1/bcs_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P1/bcs_tb.sv|
+!i113 1
+R5
+R6
+nbcs@tb
+vBitCompareSlice
+R0
+!s110 1604441077
+!i10b 1
+!s100 N<LV[QJhFg[JVU]WS]><=3
+R1
+IW8OzgHe?5251Lb^cRLUzd0
+R2
+S1
+R3
+w1604423168
+8D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv
+FD:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv
+!i122 10
+L0 2 4
+R4
+r1
+!s85 0
+31
+!s108 1604441077.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv|
+!i113 1
+R5
+R6
+n@bit@compare@slice

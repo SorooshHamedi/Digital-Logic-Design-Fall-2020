@@ -1,0 +1,141 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/References/T3/DLD_CA/CA2/P1
+vBitCompareSlice
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1604441279
+!i10b 1
+!s100 N<LV[QJhFg[JVU]WS]><=3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IW8OzgHe?5251Lb^cRLUzd0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/University/References/T3/DLD_CA/CA2/P5
+w1604423168
+8D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv
+FD:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv
+!i122 38
+L0 2 4
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1604441279.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@bit@compare@slice
+vComparatorWithBCS
+R0
+Z7 !s110 1604441278
+!i10b 1
+!s100 @]fF_oNQzNA@Rh86U9cE73
+R1
+IiR9`Oeb]^``9NN>]WnP6>0
+R2
+S1
+R3
+w1604437843
+8D:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv
+FD:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv
+!i122 37
+L0 2 17
+R4
+r1
+!s85 0
+31
+Z8 !s108 1604441278.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv|
+!i113 1
+R5
+R6
+n@comparator@with@b@c@s
+vComparatorWithTBCS
+R0
+R7
+!i10b 1
+!s100 CXY?IGM`<m5_WAbkaeJ302
+R1
+IAOg=4lLP6ngRJlP[<U7hE2
+R2
+S1
+R3
+w1604244769
+8D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv
+FD:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv
+!i122 35
+L0 2 16
+R4
+r1
+!s85 0
+31
+R8
+!s107 D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv|
+!i113 1
+R5
+R6
+n@comparator@with@t@b@c@s
+vEightBitComparatorsCompareTB
+R0
+R7
+!i10b 1
+!s100 ]D2TAm:MVE=R^PeDkK69V3
+R1
+I4Z1mKK[^o2im?ZTBaLH_60
+R2
+S1
+R3
+w1604248603
+8D:/University/References/T3/DLD_CA/CA2/P5/ComparatorCompareTestBench.sv
+FD:/University/References/T3/DLD_CA/CA2/P5/ComparatorCompareTestBench.sv
+!i122 34
+L0 2 23
+R4
+r1
+!s85 0
+31
+!s108 1604441277.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P5/ComparatorCompareTestBench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P5/ComparatorCompareTestBench.sv|
+!i113 1
+R5
+R6
+n@eight@bit@comparators@compare@t@b
+vTwoBitCompareSlice
+R0
+R7
+!i10b 1
+!s100 9X:@6RY=>Dj]oChbf2?1@2
+R1
+IC^@a`<oe3Z`RC2jW>ET3K3
+R2
+S1
+R3
+w1604421435
+8D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv
+FD:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv
+!i122 36
+L0 2 14
+R4
+r1
+!s85 0
+31
+R8
+!s107 D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv|
+!i113 1
+R5
+R6
+n@two@bit@compare@slice

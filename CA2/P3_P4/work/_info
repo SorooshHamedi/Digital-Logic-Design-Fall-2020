@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/References/T3/DLD_CA/CA2/P2
+vComparatorWithTBCS
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1604428672
+!i10b 1
+!s100 CXY?IGM`<m5_WAbkaeJ302
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IAOg=4lLP6ngRJlP[<U7hE2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/University/References/T3/DLD_CA/CA2/P3
+w1604244769
+8D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv
+FD:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv
+!i122 7
+L0 2 16
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1604428672.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@comparator@with@t@b@c@s
+vEightBitComparatorWithTBCS_TB
+R0
+!s110 1604428673
+!i10b 1
+!s100 3R;^kc_:ZeRh4nN<40FD13
+R2
+IK6:d1aW^VB0?HVK4l16FG1
+R3
+S1
+R4
+w1604245397
+8D:/University/References/T3/DLD_CA/CA2/P3/ComparatorWithTBCS_testbench.sv
+FD:/University/References/T3/DLD_CA/CA2/P3/ComparatorWithTBCS_testbench.sv
+!i122 8
+L0 2 21
+R5
+r1
+!s85 0
+31
+!s108 1604428673.000000
+!s107 D:/University/References/T3/DLD_CA/CA2/P3/ComparatorWithTBCS_testbench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P3/ComparatorWithTBCS_testbench.sv|
+!i113 1
+R7
+R8
+n@eight@bit@comparator@with@t@b@c@s_@t@b
+vTwoBitCompareSlice
+R0
+R1
+!i10b 1
+!s100 9X:@6RY=>Dj]oChbf2?1@2
+R2
+IC^@a`<oe3Z`RC2jW>ET3K3
+R3
+S1
+R4
+w1604421435
+8D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv
+FD:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv
+!i122 6
+L0 2 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv|
+!i113 1
+R7
+R8
+n@two@bit@compare@slice

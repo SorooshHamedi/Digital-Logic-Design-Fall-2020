@@ -1,0 +1,18 @@
+# Compile of ComparatorCompareTestBench.sv was successful.
+# Compile of CompartorWithTBCS.sv was successful.
+# Compile of TwoBitCompareSlice_module.sv was successful.
+# Compile of ComparatorWithBCS.sv was successful.
+# Compile of BitCompareSlice.sv was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.EightBitComparatorsCompareTB
+# vsim work.EightBitComparatorsCompareTB 
+# Start time: 01:38:01 on Nov 04,2020
+# Loading sv_std.std
+# Loading work.EightBitComparatorsCompareTB
+# Loading work.ComparatorWithTBCS
+# Loading work.ComparatorWithBCS
+# Loading work.TwoBitCompareSlice
+# Loading work.BitCompareSlice
+quit -sim
+# End time: 01:38:10 on Nov 04,2020, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 6

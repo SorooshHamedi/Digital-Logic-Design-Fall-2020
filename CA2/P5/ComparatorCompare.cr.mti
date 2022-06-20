@@ -1,0 +1,36 @@
+D:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P2/ComparatorWithBCS.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ComparatorWithBCS
+
+Top level modules:
+	ComparatorWithBCS
+
+} {} {}} D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P3/CompartorWithTBCS.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ComparatorWithTBCS
+
+Top level modules:
+	ComparatorWithTBCS
+
+} {} {}} D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P1/BitCompareSlice.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BitCompareSlice
+
+Top level modules:
+	BitCompareSlice
+
+} {} {}} D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P3/TwoBitCompareSlice_module.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TwoBitCompareSlice
+
+Top level modules:
+	TwoBitCompareSlice
+
+} {} {}} D:/University/References/T3/DLD_CA/CA2/P5/ComparatorCompareTestBench.sv {1 {vlog -work work -sv -stats=none D:/University/References/T3/DLD_CA/CA2/P5/ComparatorCompareTestBench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EightBitComparatorsCompareTB
+
+Top level modules:
+	EightBitComparatorsCompareTB
+
+} {} {}}
