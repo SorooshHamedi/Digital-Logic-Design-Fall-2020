@@ -1,0 +1,15 @@
+`timescale 1ns/1ns
+module LessDistance(input [7:0]dataA, input[7:0]dataB, input [7:0]refI, output [7:0]lessDistance);
+	wire [7:0]absDiffA, absDiffB;
+	
+	
+	AbsDiff DiffA(.data(dataA), .ref(refI), .absDiff(absDiffA));
+	AbsDiff DiffB(.data(dataB), .ref(refI), .absDiff(absDiffB));
+	
+	wire eq, lt;
+	nBitComparator #8 ncs(.A(absDiffA), .B(absDiffB), .EQ(eq), .LT(lt));
+
+	nBitBufIf1 #8 BufIf1(.A(dataA), .w(lessDistance), .en(lt));
+	nBitBufIf0 #8 BufIf0(.A(dataB), .w(lessDistance), .en(lt));
+endmodule
+	
