@@ -1,0 +1,13 @@
+`timescale 1ns/1ns
+module nBitShiftRegisterwAlways #(parameter SIZE = 8) (sln, clk, q);
+	input sln;
+	input clk;
+	output reg [0:SIZE-1]q;
+	
+	always@(negedge clk) begin
+		if(SIZE > 1)
+			#30 q <= {sln, q[0:SIZE-2]};
+		else
+			#30 q <= {sln};
+	end
+endmodule

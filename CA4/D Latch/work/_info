@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/References/T3/DLD_CA/CA3/MuxBasedAdder
+vDLatch
+!s110 1607271547
+!i10b 1
+!s100 ?PX44SWzJ;Jhd@Ne[;nMa1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INz5=XEa8jCgkWg6^@SFH72
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/References/T3/DLD_CA/CA4/D Latch
+w1607271537
+8D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_module.v
+FD:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_module.v
+!i122 14
+Z3 L0 2 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1607271546.000000
+!s107 D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_module.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@d@latch
+vDLatch_TB
+!s110 1607273286
+!i10b 1
+!s100 UFETmhVTYB<c?QEW<mODa3
+R0
+Ih8]hP:8U__m5G4BF:MQW62
+R1
+R2
+w1607273279
+8D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_testbench.v
+FD:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_testbench.v
+!i122 17
+L0 2 18
+R4
+r1
+!s85 0
+31
+!s108 1607273286.000000
+!s107 D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_testbench.v|
+!i113 1
+R5
+R6
+n@d@latch_@t@b
+vDLatchwoDelay
+!s110 1607688474
+!i10b 1
+!s100 k9z2n9U78ZiH]?:939jl^2
+R0
+Ijk9O9`4][0z][;;L]Z_3>2
+R1
+R2
+w1607453847
+8D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchwoDelay_module.v
+FD:/University/References/T3/DLD_CA/CA4/D Latch/DLatchwoDelay_module.v
+!i122 21
+R3
+R4
+r1
+!s85 0
+31
+!s108 1607688474.000000
+!s107 D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchwoDelay_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchwoDelay_module.v|
+!i113 1
+R5
+R6
+n@d@latchwo@delay
+vDLatchWR
+!s110 1607284450
+!i10b 1
+!s100 kI?KZMA2_RBg>DNkO915M2
+R0
+IHVV7`[b:MHX0[7EcW1OE<0
+R1
+R2
+w1607284012
+8D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_module.v
+FD:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_module.v
+!i122 18
+L0 2 10
+R4
+r1
+!s85 0
+31
+!s108 1607284450.000000
+!s107 D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_module.v|
+!i113 1
+R5
+R6
+n@d@latch@w@r
+vDLatchWR_TB
+!s110 1607775940
+!i10b 1
+!s100 E7>NYOFo6d3RTbUh_3=6@2
+R0
+ImY`L:k0Pd;n;cP3R4fO5<2
+R1
+R2
+w1607690253
+8D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v
+FD:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v
+!i122 24
+L0 2 22
+R4
+r1
+!s85 0
+31
+!s108 1607775940.000000
+!s107 D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v|
+!i113 1
+R5
+R6
+n@d@latch@w@r_@t@b

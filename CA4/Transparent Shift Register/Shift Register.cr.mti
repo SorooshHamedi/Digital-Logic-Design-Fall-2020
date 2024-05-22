@@ -1,0 +1,22 @@
+{D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/ShiftRegister_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/ShiftRegister_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRegister8bit_TB
+
+Top level modules:
+	ShiftRegister8bit_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/8BitShiftRegister_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/8BitShiftRegister_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRegister8Bit
+
+Top level modules:
+	ShiftRegister8Bit
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/DLatch_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/DLatch_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch
+
+Top level modules:
+	DLatch
+
+} {} {}}

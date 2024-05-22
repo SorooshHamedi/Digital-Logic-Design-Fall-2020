@@ -1,0 +1,22 @@
+`timescale 1ns/1ns
+module RegisterCompare_TB();
+	reg [7:0]data = 8'b11111111;
+	reg clk = 1'b0;
+	reg rst;
+	wire [7:0]q_gen;
+	wire [7:0]q_always;
+
+	nBitRegisterwGen #(8) regGen(data, rst, clk, q_gen);
+	nBitRegisterwAlways #(8) regAlways(data, rst, clk, q_always);
+
+	always #100 clk = ~clk;
+
+	initial begin
+	rst = 1'b1;
+	#200 data = 8'b10110100;
+	#150 rst = 1'b0;
+	#300 data = 8'd175;
+	#300
+	$stop;
+	end
+endmodule

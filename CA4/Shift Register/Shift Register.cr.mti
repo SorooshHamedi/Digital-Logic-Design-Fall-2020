@@ -1,0 +1,85 @@
+{D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterwAlways_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterwAlways_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nBitShiftRegisterwAlways
+
+Top level modules:
+	nBitShiftRegisterwAlways
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterwGen_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterwGen_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nBitShiftRegisterwGen
+
+Top level modules:
+	nBitShiftRegisterwGen
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/RegisterwAlways_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/RegisterwAlways_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nBitRegisterwAlways
+
+Top level modules:
+	nBitRegisterwAlways
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterwGen_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterwGen_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRegisterwGen_TB
+
+Top level modules:
+	ShiftRegisterwGen_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlop_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlop_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFFWR
+
+Top level modules:
+	DFFWR
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/RegisterwGen_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/RegisterwGen_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nBitRegisterwGen_TB
+
+Top level modules:
+	nBitRegisterwGen_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlopwalways_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlopwalways_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFFWRwAlways
+
+Top level modules:
+	DFFWRwAlways
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/DLatch_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/DLatch_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch
+
+Top level modules:
+	DLatch
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlopwAlways_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlopwAlways_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFFWRwAlways_TB
+
+Top level modules:
+	DFFWRwAlways_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlop_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/DFlipFlop_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DFFWR_TB
+
+Top level modules:
+	DFFWR_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterCompare_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/ShiftRegisterCompare_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftRegisterCompare_TB
+
+Top level modules:
+	ShiftRegisterCompare_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/Shift Register/RegisterCompare_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/Shift Register/RegisterCompare_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterCompare_TB
+
+Top level modules:
+	RegisterCompare_TB
+
+} {} {}}

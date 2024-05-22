@@ -1,0 +1,9 @@
+`timescale 1ns/1ns
+module DLatch(input d, input clk, output q, output qbar);
+	wire set, reset;
+	NAND nSet(d, clk, set);
+	NAND nReset(set, clk, reset);
+	
+	NAND nQ(qbar, set, q);
+	NAND nQbar(q, reset, qbar);
+endmodule

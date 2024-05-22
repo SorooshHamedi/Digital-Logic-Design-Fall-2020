@@ -1,0 +1,24 @@
+# Compile of DLatchWithReset_testbench.v was successful.
+vsim -gui work.DLatchWR_TB
+# vsim -gui work.DLatchWR_TB 
+# Start time: 15:55:50 on Dec 12,2020
+# Loading work.DLatchWR_TB
+# Loading work.DLatchWR
+add wave -position insertpoint /DLatchWR_TB/d
+add wave -position insertpoint /DLatchWR_TB/clk
+add wave -position insertpoint /DLatchWR_TB/reset
+add wave -position insertpoint /DLatchWR_TB/q
+add wave -position insertpoint /DLatchWR_TB/q_bar
+add wave -position insertpoint /DLatchWR_TB/d
+add wave -position insertpoint /DLatchWR_TB/clk
+add wave -position insertpoint /DLatchWR_TB/reset
+add wave -position insertpoint /DLatchWR_TB/q
+add wave -position insertpoint /DLatchWR_TB/q_bar
+run -all
+# ** Note: $stop    : D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v(21)
+#    Time: 610 ns  Iteration: 0  Instance: /DLatchWR_TB
+# Break in Module DLatchWR_TB at D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v line 21
+quit -sim
+# End time: 15:59:00 on Dec 12,2020, Elapsed time: 0:03:10
+# Errors: 0, Warnings: 3
+# Closing project D:/University/References/T3/DLD_CA/CA4/D Latch/dLatch.mpf

@@ -1,0 +1,18 @@
+vsim -gui work.ShiftRegister8bit_TB
+# vsim -gui work.ShiftRegister8bit_TB 
+# Start time: 15:59:29 on Dec 12,2020
+# Loading work.ShiftRegister8bit_TB
+# Loading work.ShiftRegister8Bit
+# Loading work.DLatch
+add wave -position insertpoint /ShiftRegister8bit_TB/sln
+add wave -position insertpoint /ShiftRegister8bit_TB/clk
+add wave -position insertpoint /ShiftRegister8bit_TB/q
+run -all
+# ** Note: $stop    : D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/ShiftRegister_testbench.v(13)
+#    Time: 1 us  Iteration: 0  Instance: /ShiftRegister8bit_TB
+# Break in Module ShiftRegister8bit_TB at D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/ShiftRegister_testbench.v line 13
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 16:01:17 on Dec 12,2020, Elapsed time: 0:01:48
+# Errors: 0, Warnings: 2
+# Closing project D:/University/References/T3/DLD_CA/CA4/Transparent Shift Register/Shift Register.mpf

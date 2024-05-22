@@ -1,0 +1,36 @@
+{D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch_TB
+
+Top level modules:
+	DLatch_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatchWR
+
+Top level modules:
+	DLatchWR
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatch_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatch
+
+Top level modules:
+	DLatch
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchWithReset_testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatchWR_TB
+
+Top level modules:
+	DLatchWR_TB
+
+} {} {}} {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchwoDelay_module.v} {1 {vlog -work work -stats=none {D:/University/References/T3/DLD_CA/CA4/D Latch/DLatchwoDelay_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DLatchwoDelay
+
+Top level modules:
+	DLatchwoDelay
+
+} {} {}}
