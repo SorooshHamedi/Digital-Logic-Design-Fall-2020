@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/References/T3/DLD_CA/CA3/P2
+vN8CS_TB
+!s110 1605968489
+!i10b 1
+!s100 j5QVb<iYaKzJXd`KD9>RQ0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRdi9JOJRQz:?8dDRWYdAo1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/References/T3/DLD_CA/CA3/N Bit Comparator
+w1605968484
+8D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_testbench.v
+FD:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_testbench.v
+!i122 34
+L0 2 21
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1605968488.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_testbench.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@n8@c@s_@t@b
+vnBitComparator
+!s110 1605461835
+!i10b 1
+!s100 U8Rfno;n=zc4MfBI4H?d70
+R0
+IdKT>ZhW@OBaSGihODbA>C3
+R1
+R2
+w1605454752
+8D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_module.v
+FD:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_module.v
+!i122 30
+L0 2 19
+R3
+r1
+!s85 0
+31
+!s108 1605461835.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_module.v|
+!i113 1
+R4
+R5
+nn@bit@comparator
+vTCS_TB
+!s110 1605461836
+!i10b 1
+!s100 kM?eVZ]zmn2bbWQe][[oL0
+R0
+I?a=hj7FXQWTmd`7=WnL^D3
+R1
+R2
+w1605461810
+8D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_testbench.v
+FD:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_testbench.v
+!i122 32
+L0 2 22
+R3
+r1
+!s85 0
+31
+!s108 1605461836.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_testbench.v|
+!i113 1
+R4
+R5
+n@t@c@s_@t@b
+vTwoBitCompareSlice
+!s110 1605968673
+!i10b 1
+!s100 `lB4na:>GWm`Qmlfo7J<V3
+R0
+Ic0?HSJXX;B;;oa30d]^7D2
+R1
+R2
+w1605968664
+8D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_module.v
+FD:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_module.v
+!i122 35
+L0 2 9
+R3
+r1
+!s85 0
+31
+!s108 1605968672.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/TCS_module.v|
+!i113 1
+R4
+R5
+n@two@bit@compare@slice

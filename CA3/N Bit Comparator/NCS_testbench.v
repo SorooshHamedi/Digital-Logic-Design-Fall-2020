@@ -1,0 +1,22 @@
+`timescale 1ns/1ns
+module N8CS_TB();
+	reg [7:0]A = 8'b11111111;
+	reg [7:0]B = 8'b11111111;
+	wire EQ, LT;
+	
+	nBitComparator #(8) n8cs(.A(A), .B(B), .EQ(EQ), .LT(LT));
+	
+	integer i;
+	initial begin
+	for(i=7; i>=0; i=i-1) begin
+		repeat (2) #400 A[i] = ~A[i];
+	end
+	#400 A = 8'd0;
+	#400 B = 8'd0;
+	for(i=7; i>=0; i=i-1) begin
+		repeat (2) #400 B[i] = ~B[i];
+	end
+	#400;
+	$stop;
+	end
+endmodule

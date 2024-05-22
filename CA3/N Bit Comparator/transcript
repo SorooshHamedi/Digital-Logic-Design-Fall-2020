@@ -1,0 +1,18 @@
+vsim work.N8CS_TB
+# vsim work.N8CS_TB 
+# Start time: 17:42:56 on Nov 22,2020
+# Loading work.N8CS_TB
+# Loading work.nBitComparator
+# Loading work.TwoBitCompareSlice
+add wave -position insertpoint /N8CS_TB/A
+add wave -position insertpoint /N8CS_TB/B
+add wave -position insertpoint /N8CS_TB/LT
+add wave -position insertpoint /N8CS_TB/EQ
+run -all
+# ** Note: $stop    : D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_testbench.v(20)
+#    Time: 14 us  Iteration: 0  Instance: /N8CS_TB
+# Break in Module N8CS_TB at D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/NCS_testbench.v line 20
+quit -sim
+# End time: 17:45:01 on Nov 22,2020, Elapsed time: 0:02:05
+# Errors: 0, Warnings: 2
+# Closing project D:/University/References/T3/DLD_CA/CA3/N Bit Comparator/N_Bit_Comparator.mpf
