@@ -1,0 +1,49 @@
+vsim work.TMI_TB
+# vsim work.TMI_TB 
+# Start time: 19:22:17 on Nov 21,2020
+# Loading work.TMI_TB
+# Loading work.TwoBitMuxBasedHalfAdder
+# Loading work.Mux2to1
+# Loading work.Mux8to1
+add wave -position insertpoint /TMI_TB/A
+add wave -position insertpoint /TMI_TB/B
+add wave -position insertpoint /TMI_TB/s
+add wave -position insertpoint /TMI_TB/carryOut
+run -all
+# ** Note: $stop    : D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v(14)
+#    Time: 2400 ns  Iteration: 0  Instance: /TMI_TB
+# Break in Module TMI_TB at D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v line 14
+# Compile of TMI_testbench.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TMI_TB
+run -all
+# ** Note: $stop    : D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v(15)
+#    Time: 1200 ns  Iteration: 0  Instance: /TMI_TB
+# Break in Module TMI_TB at D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v line 15
+quit -sim
+# End time: 19:30:36 on Nov 21,2020, Elapsed time: 0:08:19
+# Errors: 0, Warnings: 1
+vsim work.N8MI_TB
+# vsim work.N8MI_TB 
+# Start time: 19:30:43 on Nov 21,2020
+# Loading work.N8MI_TB
+# Loading work.nBitIncrementor
+# Loading work.TwoBitMuxBasedHalfAdder
+# Loading work.Mux2to1
+# Loading work.Mux8to1
+run -all
+# ** Note: $stop    : D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v(12)
+#    Time: 1200 ns  Iteration: 0  Instance: /N8MI_TB
+# Break in Module N8MI_TB at D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v line 12
+add wave -position insertpoint /N8MI_TB/A
+add wave -position insertpoint /N8MI_TB/sum
+add wave -position insertpoint /N8MI_TB/carryOut
+restart -f
+run -all
+# ** Note: $stop    : D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v(12)
+#    Time: 1200 ns  Iteration: 0  Instance: /N8MI_TB
+# Break in Module N8MI_TB at D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v line 12
+# End time: 19:41:15 on Nov 21,2020, Elapsed time: 0:10:32
+# Errors: 0, Warnings: 1
+# Closing project D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/MuxBasedIncrementer.mpf

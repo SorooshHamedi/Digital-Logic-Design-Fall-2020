@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/References/T3/DLD_CA/CA3/TwoBitMuxBasedAdder
+vMux2to1
+!s110 1605950367
+!i10b 1
+!s100 ]3dAPzGQR1c78WBb5266H3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXHRa^6Ji9@>L9_T=XAhUP0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer
+w1605729916
+8D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux2to1_module.v
+FD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux2to1_module.v
+!i122 25
+L0 2 4
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1605950367.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux2to1_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux2to1_module.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@mux2to1
+vMux8to1
+Z6 !s110 1605730315
+!i10b 1
+!s100 D5Ve<7o1HV_KkfIg:Y]bb3
+R0
+Id9hH<VeXG3G0<XOiUkCAn1
+R1
+R2
+w1605729993
+8D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux8to1_module.v
+FD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux8to1_module.v
+!i122 12
+L0 2 3
+R3
+r1
+!s85 0
+31
+Z7 !s108 1605730315.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux8to1_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/Mux8to1_module.v|
+!i113 1
+R4
+R5
+n@mux8to1
+vN8MI_TB
+!s110 1605950720
+!i10b 1
+!s100 dcgAOWmI?:be`5A5FoO0d3
+R0
+I7B;l4zk9P4>jleG>1`MK92
+R1
+R2
+w1605950715
+8D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v
+FD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v
+!i122 27
+L0 2 13
+R3
+r1
+!s85 0
+31
+!s108 1605950720.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/N8MI_testbench.v|
+!i113 1
+R4
+R5
+n@n8@m@i_@t@b
+vnBitIncrementor
+R6
+!i10b 1
+!s100 <:FVD6ozIE33O8g:eWXz52
+R0
+ICc<8H<XONlY7_W6[5Mn;D1
+R1
+R2
+w1605730308
+8D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/NMI_module.v
+FD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/NMI_module.v
+!i122 13
+L0 2 17
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/NMI_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/NMI_module.v|
+!i113 1
+R4
+R5
+nn@bit@incrementor
+vT8MA_TB
+!s110 1605476927
+!i10b 1
+!s100 X0AzQL=ogzaDcRUBz5CD<2
+R0
+ID9i^hBNXPWR2EGjhS_klD1
+R1
+R2
+w1605476914
+8D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/T8MA_testbench.v
+FD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/T8MA_testbench.v
+!i122 7
+L0 2 12
+R3
+r1
+!s85 0
+31
+!s108 1605476927.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/T8MA_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/T8MA_testbench.v|
+!i113 1
+R4
+R5
+n@t8@m@a_@t@b
+vTMI_TB
+!s110 1605974145
+!i10b 1
+!s100 e2^Oa06jCo7QROTzk^<F?0
+R0
+IYCA736P56QF5O??jEYiYO0
+R1
+R2
+w1605974136
+8D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v
+FD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v
+!i122 28
+L0 2 16
+R3
+r1
+!s85 0
+31
+!s108 1605974145.000000
+!s107 D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_testbench.v|
+!i113 1
+R4
+R5
+n@t@m@i_@t@b
+vTwoBitMuxBasedHalfAdder
+!s110 1605730314
+!i10b 1
+!s100 NVUlbO3c:8YmaMJHQNVV<1
+R0
+IGNUeaN3cA2a;NOm[3I<ZI2
+R1
+R2
+w1605730208
+Z8 8D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_module.v
+Z9 FD:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_module.v
+!i122 10
+L0 2 9
+R3
+r1
+!s85 0
+31
+!s108 1605730314.000000
+Z10 !s107 D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_module.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:/University/References/T3/DLD_CA/CA3/MuxBasedIncrementer/TMI_module.v|
+!i113 1
+R4
+R5
+n@two@bit@mux@based@half@adder
+vTwoBitMuxBasedIncrementer
+!s110 1605472832
+!i10b 1
+!s100 O`edGL8kn5eRV>JU_`0872
+R0
+IdFgCWMZnV3QcNi>:XWI`g1
+R1
+R2
+w1605472827
+R8
+R9
+!i122 1
+L0 2 8
+R3
+r1
+!s85 0
+31
+!s108 1605472832.000000
+R10
+R11
+!i113 1
+R4
+R5
+n@two@bit@mux@based@incrementer

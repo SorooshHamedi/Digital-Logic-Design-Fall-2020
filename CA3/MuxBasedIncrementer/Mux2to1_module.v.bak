@@ -1,0 +1,7 @@
+`timescale 1ns/1ns
+module Mux2to1(input [1:0]I, input S, output w);
+	assign w = (S == 1'b0) ? I[0]:
+		   (S == 1'b1) ? I[1]: 1'bx;
+endmodule
+		   
+

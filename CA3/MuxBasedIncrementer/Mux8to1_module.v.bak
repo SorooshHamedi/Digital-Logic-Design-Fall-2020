@@ -1,0 +1,11 @@
+`timescale 1ns/1ns
+module Mux8to1(input [7:0]I, input [2:0]S, output w);
+	assign w = (S == 3'd0) ? I[0]:
+		   (S == 3'd1) ? I[1]:
+		   (S == 3'd2) ? I[2]:
+		   (S == 3'd3) ? I[3]:
+		   (S == 3'd4) ? I[4]:
+		   (S == 3'd5) ? I[5]:
+		   (S == 3'd6) ? I[6]:
+		   (S == 3'd7) ? I[7]: 1'bx;
+endmodule 
