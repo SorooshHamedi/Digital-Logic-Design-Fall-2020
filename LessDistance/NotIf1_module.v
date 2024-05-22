@@ -1,4 +1,0 @@
-`timescale 1ns/1ns
-module NotIf1(input A, input en, output w);
-	notif1 #(17,19,19) inv(w,A,en);
-endmodule
