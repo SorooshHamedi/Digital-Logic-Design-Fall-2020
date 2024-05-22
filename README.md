@@ -1,6 +1,7 @@
 # Digital-Logic-Design-Fall-2020
 
 Digital Circuit design using VHDL
+Projects written and simulated using ModelSim software.
 
 Description of all CA's available in pdf format in the corresponding folders.
 
@@ -19,3 +20,4 @@ CA3: The goal is to implement N bit Incrementor. During the step by step impleme
       3.Two bit Multiplexer-based Incrementor
       
       4.B bit Multiplexer-based Incrementor
+CA4: Experimentation with flip-flops and latches and comparing their performance.
